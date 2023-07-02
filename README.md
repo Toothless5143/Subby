@@ -8,7 +8,7 @@ First clone the repo in your local machine, to do so follow the below command. <
 Then you need to download the required library, for this tool we used the requests library lets download it with the help of pip.
 `pip install requests`
 
-Then you need to fire up the tool and provide the main domain and the wordlist path you can use seclist's wordlist or you can make your own wordlist. <br>
+Then you need to fire up the tool and provide the main domain and the wordlist path you can use seclist's wordlist or you can make your own wordlist.<br>
 `python3 subby.py`
 
 ### License
