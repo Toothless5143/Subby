@@ -12,4 +12,4 @@ Then you need to fire up the tool and provide the main domain and the wordlist p
 `python3 subby.py`
 
 ### License
-This tool is open source and available under the [MIT License.](/LICENSE.md)
+This tool is open source and available under the [MIT License.](/LICENSE)
